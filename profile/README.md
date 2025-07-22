@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://cdn.discordapp.com/attachments/813411249701519370/986199450311610448/berryloader.png" width=200em height=200em>
+	<img src="https://geo.thei.rs/public/berryloader.png" width=200em height=200em>
 	<h1 align="center">BerryLoader</h1>
 </div>
 
